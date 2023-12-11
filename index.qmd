@@ -1,0 +1,25 @@
+---
+title: "Ryan Deng""
+---
+
+# Bibliography
+
+Ryan Deng is a 1st year PhD student at Case Western Reserve University. His research interests focus on the molecular interactions between components of signal transduction pathway. His current lab work examines how one anchor protein affects the distribution of a cholinergic neuron receptor in Drosophila brain.
+
+## Interests
+
+-   Cell-cell communication
+
+-   Signal transduction pathway
+
+-   Neural circus
+
+## Education
+
+PhD in Biology, 2023 - Present
+
+Case Western Reserve University
+
+BS in Biology, 2016 - 2021
+
+University of British Columbia
